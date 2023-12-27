@@ -1,5 +1,4 @@
-#GROUP 42 (this year)
-(Last year GROUP 30)
+GROUP 42 
 HILAL URUN, hilal.urun@studenti.unipd.it
 
 INSTRUCTIONS TO RUN THE PROJECT ARE AS FOLLOWS:
